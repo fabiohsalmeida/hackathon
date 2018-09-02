@@ -11,6 +11,7 @@ Coloque o link do seu repositório abaixo!
 - Grupo 03
 - - Froendend: https://github.com/AlanQuadros/financia-mobile.git
 - - Backend: https://github.com/fabiohsalmeida/financia-backend.git
+- - Marketing: https://github.com/agiglio1912/financia-marketing.git
 - Grupo 04
 
 
